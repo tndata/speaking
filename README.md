@@ -8,4 +8,4 @@ If you are hosting an event, feel free to [log an issue here with details about 
 
 ## Available to speak?
 
-Feel free to browse the [list of speaking opportunities in our issues](https://github.com/dotnet-foundation/speaking/issues). If you'd like to promote yourself as availabel, consider submitting a PR to the [SPEAKERS.md](SPEAKERS.md) file with details about your availability and requirements.
+Feel free to browse the [list of speaking opportunities in our issues](https://github.com/dotnet-foundation/speaking/issues). If you'd like to promote yourself as available, consider submitting a PR to the [SPEAKERS.md](SPEAKERS.md) file with details about your availability and requirements.
