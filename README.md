@@ -4,8 +4,8 @@ Let's talk about .NET! This repository helps connect speakers to speaking opport
 
 ## Hosting an event?
 
-If you are hosting an event, feel free to log an issue here with details about your event. Please follow the event template so that the pertinent details are clearly communicated.
+If you are hosting an event, feel free to [log an issue here with details about your event](https://github.com/dotnet-foundation/speaking/issues/new). Please follow the event template so that the pertinent details are clearly communicated.
 
 ## Available to speak?
 
-Please submit a PR to the [SPEAKERS.md](SPEAKERS.md) file with details about your availability and requirements.
+Feel free to browse the [list of speaking opportunities in our issues](https://github.com/dotnet-foundation/speaking/issues). If you'd like to promote yourself as availabel, consider submitting a PR to the [SPEAKERS.md](SPEAKERS.md) file with details about your availability and requirements.
