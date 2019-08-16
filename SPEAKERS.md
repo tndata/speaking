@@ -8,5 +8,6 @@ DISCLAIMER: This is a self selecting list. The Foundation does not necessarily v
 
 | Speaker              | Contact Info | Topic areas             | Travel requirements | Remote presentation? |    
 | -------------------- | ------------ | ----------------------- | ------------------- | ---------------------------------- |
+| Quinntyne Brown               | https://github.com/QuinntyneBrow              | CQRS, Event Sourcing, DDD, Angular, ASP.NET Core | Can speak anywhere in Toronto. Require travel covered elsewhere. | Yes |
 | She-Ra               |              | Battling the evil Horde | Can speak anywhere in Etheria. Require travel covered elsewhere. | Yes |
 |                      |              |                         |                     |                      |        
