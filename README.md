@@ -8,4 +8,4 @@ If you are hosting an event, feel free to log an issue here with details about y
 
 ## Available to speak?
 
-Please submit a PR to the Speakers.md file with details about your availability and requirements.
+Please submit a PR to the [Speakers.md](Speakers.md) file with details about your availability and requirements.
