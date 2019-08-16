@@ -1,6 +1,6 @@
-# Speaking
+# Speaking (Experimental)
 
-Let's talk about .NET! This repository helps connect speakers to speaking opportunities related to the .NET ecosystem.
+Let's talk about .NET! This repository helps connect speakers to speaking opportunities related to the .NET ecosystem. We're experimenting with using a repository to do this until we have a better solution.
 
 ## Hosting an event?
 
